@@ -1,0 +1,12 @@
+Workflow for creating projects:
+1- open cmd and cd to the project folder
+2- create a repo by typing > git init
+3- open VS Code by typing code .
+4- close cmd and open the integrated cli by pressing Ctrl + ~
+5- add the files and folders needed
+6- create README.md for gitHub
+7- create .gitignore file
+8- do initial ccommit
+9- create a gitHub repo
+10- push project to gitHub by typing git push <repoURL> master
+...
