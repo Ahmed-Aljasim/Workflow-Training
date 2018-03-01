@@ -6,7 +6,7 @@ Workflow for creating projects:
 5- add the files and folders needed
 6- create README.md for gitHub
 7- create .gitignore file
-8- do initial ccommit
+8- init commit
 9- create a gitHub repo
 10- push project to gitHub by typing git push <repoURL> master
 ...
